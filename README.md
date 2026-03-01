@@ -1,5 +1,3 @@
-# Marketing-Dashbioard
-
 # Marketing-Dashboard
 ## 1. Objective
 
